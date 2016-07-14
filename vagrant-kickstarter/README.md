@@ -1,0 +1,1 @@
+Based on [vagrant-kickstarter](https://github.com/bradwestfall/vagrant-kickstarter/)
